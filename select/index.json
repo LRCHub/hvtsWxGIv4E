@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "だけど僕は",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2025-12-18T12:20:57.176525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だけど僕は",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/01_だけど僕は_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だけど僕は",
+      "artist": "Kou Shibasaki",
+      "has_synced": true,
+      "path": "select/02_だけど僕は_Kou_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "だけど僕は - dakedo boku wa",
+      "artist": "gesunokiwamiotome",
+      "has_synced": true,
+      "path": "select/03_だけど僕は_-_dakedo_boku_wa_gesunokiwamiotome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だけど僕は",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_だけど僕は_ゲスの極み乙女。.txt"
+    }
+  ]
+}
